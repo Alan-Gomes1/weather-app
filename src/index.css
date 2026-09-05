@@ -44,7 +44,7 @@ html {
   font-size: 1.8rem;
 }
 
-.search-bar a {
+.search-bar img {
   display: flex;
   width: 5rem;
   padding: 1.5rem;
@@ -54,7 +54,7 @@ html {
 }
 
 .weather-icon {
-  width: 15rem;
+  width: 18rem;
   margin: 3rem 0;
 }
 
